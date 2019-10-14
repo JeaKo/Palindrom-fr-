@@ -1,4 +1,5 @@
 ## KWJE ##
+
 def palindrome(chaine):
 
     l = list(chaine)  # ici jai converti le string chaine en list l.  Je pouvais le faire directement comme d'habitude avec la syntaxe de convertion qu'on utilisait d'habitude
